@@ -1,0 +1,5 @@
+conda install -c conda-forge tesseract
+tesserocr-2.6.0-cp310-cp310-win32
+conda install -c simonflueckiger tesserocr
+conda install -c conda-forge pillow
+pip install tesserocr-2.6.0-cp311-cp311-win_amd64.whl --force-reinstall
